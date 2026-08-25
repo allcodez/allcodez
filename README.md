@@ -1,6 +1,6 @@
 # Fahd Adebayo
 
-Full-stack & mobile engineer — React Native, Next.js, TypeScript.
+Full-stack & Mobile developer — React Native, Next.js, TypeScript.
 CTO at [Groom](https://www.usegroom.com). Two apps live on the App Store & Google Play.
 
 Production code lives in private repos — happy to walk through any of it live.

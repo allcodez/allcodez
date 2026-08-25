@@ -20,4 +20,4 @@ Production code lives in private repos — happy to walk through any of it live.
 
 ---
 
-📍 Lagos (WAT) · [Book a call](https://cal.com/fahd-dev) · [Contra](https://contra.com/fahdadebayo02_ub1jc8l4)
+[Book a call](https://cal.com/fahd-dev) · [Contra](https://contra.com/fahdadebayo02_ub1jc8l4)
